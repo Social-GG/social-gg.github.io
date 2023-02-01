@@ -1,1 +1,1 @@
-# social.gg.github.io
+# Landing page do Aplicativo Social App.
